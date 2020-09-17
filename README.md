@@ -1,1 +1,1 @@
-# Stock-Sentiment-analysis-using-news-headlines
+# Stock-Sentiment-analysis-using-news-headlines.
